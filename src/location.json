@@ -1,0 +1,30 @@
+{
+    "locations":
+    [
+        {
+            "long_lat": "POINT(-74.047455 40.721568)",
+            "region": "Jersey City, New Jersey, United States"
+        }, 
+        {
+            "long_lat": "POINT(-98.238895 27.763915)", 
+            "region": "San Diego, Texas, United States"
+        },
+        {
+            "long_lat": "POINT(-104.825349 38.833958)", 
+            "region": "Colorado Springs, Colorado, United States"
+        },
+        {
+            "long_lat": "POINT(26.70442 -80.23825)", 
+            "region": "Florida, Florida, United States"
+        },
+        {
+            "long_lat": "POINT(-118.242766 34.053691)", 
+            "region": "Los Angeles, California, United States"
+        },
+        {
+            "long_lat": "POINT(-78.878392 42.886717)", 
+            "region": "Buffalo, New York, United States"
+        }
+    ],
+    "years":["2016","2017","2018", "2019", "2020"]
+}
