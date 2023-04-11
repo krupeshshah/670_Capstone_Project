@@ -24,6 +24,22 @@
         {
             "long_lat": "POINT(-78.878392 42.886717)", 
             "region": "Buffalo, New York, United States"
+        },
+        {
+            "long_lat": "POINT(-74.7597 40.2206)",
+            "region": "North, New Jersey, Trenton"
+        }, 
+        {
+            "long_lat": "POINT(-97.7431 30.2672)", 
+            "region": "South, texas, Austin"
+        },
+        {
+            "long_lat": "POINT(-77.4360 37.5407)", 
+            "region": "East, virginia, Richmond"
+        },
+        {
+            "long_lat": "POINT(-121.4944 38.5816)", 
+            "region": "West, California, Sacramento"
         }
     ],
     "years":["2016","2017","2018", "2019", "2020"]
