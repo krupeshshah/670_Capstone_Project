@@ -14,7 +14,7 @@
             "region": "Colorado Springs, Colorado, United States"
         },
         {
-            "long_lat": "POINT(26.70442 -80.23825)", 
+            "long_lat": "POINT(-80.23825 26.70442)", 
             "region": "Florida, Florida, United States"
         },
         {
